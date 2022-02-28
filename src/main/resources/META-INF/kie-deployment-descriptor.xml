@@ -14,7 +14,7 @@
             <resolver>mvel</resolver>
             <identifier>com.prospecta.mdo.custom.handlers.IntegartionWIH</identifier>
             <parameters/>
-            <name>Integration WIH</name>
+            <name>IntegrationWIH</name>
         </work-item-handler>
     </work-item-handlers>
     <environment-entries/>
