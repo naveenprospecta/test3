@@ -128,5 +128,14 @@
         "parameters" : [
             "Condition" : new StringDataType()
         ]
+    ],
+     [
+        "name" : "Integrate",
+        "displayName" : "Integrate",
+        "icon" : "defaultlogicon.png",
+
+        "parameters" : [
+          "Endpoint" : new StringDataType()
+        ]
     ]
 ]
