@@ -12,27 +12,9 @@
     <work-item-handlers>
         <work-item-handler>
             <resolver>mvel</resolver>
-            <identifier>new org.jbpm.process.workitem.bpmn2.ServiceTaskHandler()</identifier>
-            <parameters/>
-            <name>ServiceTask</name>
-        </work-item-handler>
-        <work-item-handler>
-            <resolver>mvel</resolver>
             <identifier>com.prospecta.mdo.custom.handlers.IntegrationHandler</identifier>
             <parameters/>
             <name>Integrate</name>
-        </work-item-handler>
-        <work-item-handler>
-            <resolver>mvel</resolver>
-            <identifier>new org.jbpm.process.workitem.webservice.WebServiceWorkItemHandler()</identifier>
-            <parameters/>
-            <name>WebService</name>
-        </work-item-handler>
-        <work-item-handler>
-            <resolver>mvel</resolver>
-            <identifier>new org.jbpm.process.workitem.rest.RESTWorkItemHandler("wbadmin", "wbadmin")</identifier>
-            <parameters/>
-            <name>Rest</name>
         </work-item-handler>
     </work-item-handlers>
     <environment-entries/>
