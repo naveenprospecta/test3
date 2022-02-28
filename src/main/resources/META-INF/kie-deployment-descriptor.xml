@@ -12,7 +12,7 @@
     <work-item-handlers>
         <work-item-handler>
             <resolver>mvel</resolver>
-            <identifier>com.prospecta.mdo.custom.handlers.IntegrationHandler</identifier>
+            <identifier>new com.prospecta.mdo.custom.handlers.IntegrationHandler()</identifier>
             <parameters/>
             <name>Integrate</name>
         </work-item-handler>
