@@ -4,7 +4,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.729984</groupId>
   <artifactId>729984</artifactId>
-  <version>1.0.18</version>
+  <version>1.0.19</version>
   <packaging>kjar</packaging>
   <name>729984</name>
   <description>Project</description>
